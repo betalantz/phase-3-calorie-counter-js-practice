@@ -1,4 +1,4 @@
-## Flatiron Calorie Counter
+# Flatiron Calorie Counter
 Our client is trying to launch a calorie counter as a tool for their customers to use. We already have a functioning backend API where we can query and store data. However, our frontend developer had to take an unexpected leave of absence before finishing. We need your help to complete this SPA (single page application). **_We are on a tight deadline and need you to have a functioning application by the EOD (end of day)._**
 
 ---
